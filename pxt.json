@@ -1,0 +1,23 @@
+{
+    "name": "traffic-light",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "framework.ts",
+        "wifi.ts",
+        "ili9341.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.11",
+        "pxt": "7.0.8"
+    },
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
